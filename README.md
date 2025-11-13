@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Álvaro
+**Software Engineering Student | Java + FinTech Tools**
 
-<!--
-**Alvaro05RB/Alvaro05RB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 What I Build
+I create **practical Java tools** to solve real problems I face at work and in market analysis:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Problem | Solution | Tech |
+|--------|----------|------|
+| Manual invoice reconciliation | [**InvoiceMatcher**](https://github.com/Alvaro05RB/InvoiceMatcher) | Java Swing, OpenCSV, Maven |
+| No Google Trends API | [**Z-Score Parser**](https://github.com/Alvaro05RB/Z-ScoreGoogleTrends) | Pure Java, CSV → Z-Score |
+| Offline trade journaling | [**Obsidian Dashboard**](https://github.com/Alvaro05RB/Obsidian-Trading-Dashboard) | Obsidian + DataView |
+| University assignment → real architecture | [**Battleship CLI**](https://github.com/Alvaro05RB/SoftwareFundamentalsProject) | Java 17, 3-Tier, CSV persistence |
+
+---
+
+## 🛠 Tech Stack
+```text
+Java · OOP · Maven · Git · JUnit · Agile · SQL · Backend Development
